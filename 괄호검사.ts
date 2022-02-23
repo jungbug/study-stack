@@ -52,3 +52,6 @@ const checkComb = (str:string):boolean => {
 
 let str = "(hello world)[][this is stack]()"
 console.log(checkComb(str))
+
+
+export{}
