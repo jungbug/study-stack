@@ -37,3 +37,5 @@ stack.pop()
 stack.size
 
 console.log(stack.size)
+
+export{}

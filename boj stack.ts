@@ -36,3 +36,5 @@ const arr = [["push", 1]]
 //             break
 //     }
 // }
+
+export{}
